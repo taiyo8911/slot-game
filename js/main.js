@@ -65,9 +65,9 @@ function nextScene() {
 
             // 判定
             if (carr[0].result == carr[1].result && carr[1].result == carr[2].result) {
-                msg.innerText = "*「おめでとうございます。あたりです!";
+                msg.innerText = "*「おめでとうございます!";
             } else {
-                msg.innerText = "＊「ざんねん。もういちど挑戦しますか？」";
+                msg.innerText = "＊「ざんねん。もういちど挑戦しますか?」";
             }
             document.getElementById("btn").innerText = "スタート";
             break;
