@@ -1,2 +1,0 @@
-# slot-game
-JavaScriptのスロットゲーム
